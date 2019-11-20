@@ -1,4 +1,4 @@
-<mxfile modified="2019-11-20T08:06:38.963Z" host="www.draw.io" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36" etag="lQ0NcX08prkPJESwKpHA" version="12.2.7" type="github" pages="2">
+<mxfile modified="2019-11-20T08:08:51.824Z" host="www.draw.io" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36" etag="k2L-kgcCLlUZ7_XWwLnP" version="12.2.7" type="github" pages="2">
   <diagram id="WI9T0HZ2pTsCkuznbFz-" name="Page-1">
     <mxGraphModel dx="1391" dy="805" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -24,7 +24,7 @@
         <mxCell id="AcxdMaKK0mU5kZiv2lnr-6" value="ApplyAnywhere&lt;br&gt;Front End" style="aspect=fixed;html=1;perimeter=none;align=center;shadow=0;dashed=0;image;fontSize=12;image=img/lib/mscae/WebApp_WebJobs.svg;labelBackgroundColor=#ffffff;" parent="1" vertex="1">
           <mxGeometry x="467.5" y="348" width="64" height="64" as="geometry"/>
         </mxCell>
-        <mxCell id="AcxdMaKK0mU5kZiv2lnr-9" value="Azure Blob&lt;br&gt;Storage&lt;br&gt;" style="aspect=fixed;html=1;perimeter=none;align=center;shadow=0;dashed=0;image;fontSize=12;image=img/lib/mscae/BlobBlock.svg;labelBackgroundColor=none;direction=east;" parent="1" vertex="1">
+        <mxCell id="AcxdMaKK0mU5kZiv2lnr-9" value="Blob Storage&lt;br&gt;Images, Attachment" style="aspect=fixed;html=1;perimeter=none;align=center;shadow=0;dashed=0;image;fontSize=12;image=img/lib/mscae/BlobBlock.svg;labelBackgroundColor=none;direction=east;" parent="1" vertex="1">
           <mxGeometry x="469.5" y="485" width="62" height="53" as="geometry"/>
         </mxCell>
         <mxCell id="lvaCASJLjp-fSjR-ahG0-72" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" target="lvaCASJLjp-fSjR-ahG0-71">
@@ -150,7 +150,7 @@
             <mxPoint x="500" y="550" as="sourcePoint"/>
           </mxGeometry>
         </mxCell>
-        <mxCell id="xvHnMex4xPKi_8IZawSf-6" value="Azure Blob&lt;br&gt;Storage&lt;br&gt;" style="aspect=fixed;html=1;perimeter=none;align=center;shadow=0;dashed=0;image;fontSize=12;image=img/lib/mscae/BlobBlock.svg;labelBackgroundColor=none;direction=east;" vertex="1" parent="L5A2PCmOKvRyw3RFonAS-1">
+        <mxCell id="xvHnMex4xPKi_8IZawSf-6" value="Blob Storage&lt;br&gt;Images" style="aspect=fixed;html=1;perimeter=none;align=center;shadow=0;dashed=0;image;fontSize=12;image=img/lib/mscae/BlobBlock.svg;labelBackgroundColor=none;direction=east;" vertex="1" parent="L5A2PCmOKvRyw3RFonAS-1">
           <mxGeometry x="469.5" y="587" width="62" height="53" as="geometry"/>
         </mxCell>
         <mxCell id="xvHnMex4xPKi_8IZawSf-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="L5A2PCmOKvRyw3RFonAS-1" source="xvHnMex4xPKi_8IZawSf-11" target="xvHnMex4xPKi_8IZawSf-31">

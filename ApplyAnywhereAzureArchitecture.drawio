@@ -1,4 +1,4 @@
-<mxfile modified="2019-11-20T07:53:15.580Z" host="www.draw.io" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36" etag="rb9Ui9m9yM0GV7njgfge" version="12.2.7" type="github" pages="2">
+<mxfile modified="2019-11-20T07:56:22.573Z" host="www.draw.io" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36" etag="oFNF9mxPWcVUEvMIN-CK" version="12.2.7" type="github" pages="2">
   <diagram id="WI9T0HZ2pTsCkuznbFz-" name="Page-1">
     <mxGraphModel dx="1391" dy="805" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -56,8 +56,10 @@
             <mxPoint x="648" y="524" as="targetPoint"/>
           </mxGeometry>
         </mxCell>
-        <mxCell id="lvaCASJLjp-fSjR-ahG0-32" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="lvaCASJLjp-fSjR-ahG0-8" target="lvaCASJLjp-fSjR-ahG0-20">
-          <mxGeometry relative="1" as="geometry"/>
+        <mxCell id="lvaCASJLjp-fSjR-ahG0-32" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="lvaCASJLjp-fSjR-ahG0-8">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="648" y="485" as="targetPoint"/>
+          </mxGeometry>
         </mxCell>
         <mxCell id="lvaCASJLjp-fSjR-ahG0-39" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1.073;entryY=0.623;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="lvaCASJLjp-fSjR-ahG0-8" target="AcxdMaKK0mU5kZiv2lnr-9">
           <mxGeometry relative="1" as="geometry">
@@ -69,10 +71,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="lvaCASJLjp-fSjR-ahG0-19" value="K2 Blackpear&lt;br&gt;SQL Server" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/SQL_Servers.svg;labelBackgroundColor=none;" vertex="1" parent="1">
-          <mxGeometry x="770" y="486.5" width="50" height="50" as="geometry"/>
-        </mxCell>
-        <mxCell id="lvaCASJLjp-fSjR-ahG0-20" value="KpmgWorkFlow&lt;br&gt;SQL Database" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/dep/SQL_Server_Stretch_DB.svg;labelBackgroundColor=none;" vertex="1" parent="1">
-          <mxGeometry x="623" y="485" width="50" height="50" as="geometry"/>
+          <mxGeometry x="769" y="486.5" width="50" height="50" as="geometry"/>
         </mxCell>
         <mxCell id="lvaCASJLjp-fSjR-ahG0-52" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="lvaCASJLjp-fSjR-ahG0-21">
           <mxGeometry relative="1" as="geometry">
@@ -126,6 +125,9 @@
         </mxCell>
         <mxCell id="5PH30aPsPjQZAiX1bgCx-1" value="Application Insights" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/Application_Insights.svg;dashed=1;labelBackgroundColor=#ffffff;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="1044" y="568" width="32" height="50" as="geometry"/>
+        </mxCell>
+        <mxCell id="TPf7LboAGNHlAJCwfOmn-1" value="&lt;span style=&quot;background-color: rgb(248 , 249 , 250)&quot;&gt;KpmgWorkFlow&lt;/span&gt;&lt;br style=&quot;background-color: rgb(248 , 249 , 250)&quot;&gt;&lt;span style=&quot;background-color: rgb(248 , 249 , 250)&quot;&gt;SQL Database&lt;/span&gt;" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/SQL_Database_generic.svg;dashed=1;labelBackgroundColor=#ffffff;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="630" y="487" width="38" height="50" as="geometry"/>
         </mxCell>
       </root>
     </mxGraphModel>

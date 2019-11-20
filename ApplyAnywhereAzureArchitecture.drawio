@@ -1,5 +1,5 @@
-<mxfile modified="2019-11-20T08:08:51.824Z" host="www.draw.io" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36" etag="k2L-kgcCLlUZ7_XWwLnP" version="12.2.7" type="github" pages="2">
-  <diagram id="WI9T0HZ2pTsCkuznbFz-" name="Page-1">
+<mxfile modified="2019-11-20T08:10:29.614Z" host="www.draw.io" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36" etag="GtapQkjcPw-J-a-29SuF" version="12.2.7" type="github" pages="2">
+  <diagram id="WI9T0HZ2pTsCkuznbFz-" name="ApplyAnywhere architecture">
     <mxGraphModel dx="1391" dy="805" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0"/>
@@ -133,7 +133,7 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="HytrqFQPtinqaR7rAQq8" name="Page-2">
+  <diagram id="HytrqFQPtinqaR7rAQq8" name="tax.com.tw architecture">
     <mxGraphModel dx="1391" dy="805" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="L5A2PCmOKvRyw3RFonAS-0"/>
@@ -200,6 +200,9 @@
         </mxCell>
         <mxCell id="uOCD5EzAV5mJWtjaBNg1-0" value="tax.com.tw&lt;br&gt;Database" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/SQL_Database_generic.svg;dashed=1;labelBackgroundColor=#ffffff;fillColor=none;" vertex="1" parent="L5A2PCmOKvRyw3RFonAS-1">
           <mxGeometry x="710" y="464" width="38" height="50" as="geometry"/>
+        </mxCell>
+        <mxCell id="IJudURbBC9qB1mBKnEuI-0" value="Application Insights" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/Application_Insights.svg;dashed=1;labelBackgroundColor=#ffffff;fillColor=none;" vertex="1" parent="L5A2PCmOKvRyw3RFonAS-1">
+          <mxGeometry x="720" y="613.5" width="32" height="50" as="geometry"/>
         </mxCell>
       </root>
     </mxGraphModel>

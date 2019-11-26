@@ -1,4 +1,4 @@
-<mxfile modified="2019-11-26T08:53:45.062Z" host="www.draw.io" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36" etag="1xI4hbKAc-4un0sVX_8K" version="12.3.1" type="github" pages="4">
+<mxfile modified="2019-11-26T08:54:03.300Z" host="www.draw.io" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36" etag="yUxyLzeq7_vE3L8_w9Jb" version="12.3.1" type="github" pages="4">
   <diagram id="WI9T0HZ2pTsCkuznbFz-" name="ApplyAnywhere PaaS architecture">
     <mxGraphModel dx="805" dy="427" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -229,7 +229,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="smwpBIK393G-4AdiDOek-16" value="Azure AD&lt;br&gt;Auth" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/Active_Directory.svg;labelBackgroundColor=#ffffff;" parent="3gNSYFEJWq0Y2mECjLJj-1" vertex="1">
+        <mxCell id="smwpBIK393G-4AdiDOek-16" value="GO2 AD&lt;br&gt;Auth" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/Active_Directory.svg;labelBackgroundColor=#ffffff;" parent="3gNSYFEJWq0Y2mECjLJj-1" vertex="1">
           <mxGeometry x="360" y="481" width="50" height="50" as="geometry"/>
         </mxCell>
         <mxCell id="smwpBIK393G-4AdiDOek-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="3gNSYFEJWq0Y2mECjLJj-1" source="smwpBIK393G-4AdiDOek-18" edge="1">

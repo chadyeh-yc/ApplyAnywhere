@@ -1,6 +1,6 @@
-<mxfile modified="2019-11-26T08:54:03.300Z" host="www.draw.io" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36" etag="yUxyLzeq7_vE3L8_w9Jb" version="12.3.1" type="github" pages="4">
+<mxfile modified="2019-11-26T08:57:38.963Z" host="www.draw.io" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36" etag="inaNhfpMUkd2wJogPWoc" version="12.3.1" type="github" pages="4">
   <diagram id="WI9T0HZ2pTsCkuznbFz-" name="ApplyAnywhere PaaS architecture">
-    <mxGraphModel dx="805" dy="427" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1408" dy="748" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0"/>
         <mxCell id="1" parent="0"/>
@@ -45,8 +45,7 @@
             <mxPoint x="315" y="386.5" as="sourcePoint"/>
             <mxPoint x="387" y="503.5" as="targetPoint"/>
             <Array as="points">
-              <mxPoint x="387.5" y="387"/>
-              <mxPoint x="387.5" y="474"/>
+              <mxPoint x="387" y="387"/>
             </Array>
           </mxGeometry>
         </mxCell>
@@ -59,9 +58,10 @@
         <mxCell id="lvaCASJLjp-fSjR-ahG0-19" value="K2 Blackpear&lt;br&gt;SQL Server" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/SQL_Servers.svg;labelBackgroundColor=none;" parent="1" vertex="1">
           <mxGeometry x="770" y="513" width="50" height="50" as="geometry"/>
         </mxCell>
-        <mxCell id="lvaCASJLjp-fSjR-ahG0-52" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.9;exitY=0.46;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="lvaCASJLjp-fSjR-ahG0-71" edge="1">
+        <mxCell id="lvaCASJLjp-fSjR-ahG0-52" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="460" y="378" as="targetPoint"/>
+            <mxPoint x="320" y="378" as="sourcePoint"/>
             <Array as="points">
               <mxPoint x="330" y="378"/>
               <mxPoint x="330" y="378"/>
@@ -127,16 +127,13 @@
         <mxCell id="sQlxrv8fsCGKDVmOHkrW-1" value="ldap" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="345" y="387" width="40" height="20" as="geometry"/>
         </mxCell>
-        <mxCell id="sQlxrv8fsCGKDVmOHkrW-2" value="Https (TCP443)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="30" y="700" width="100" height="20" as="geometry"/>
-        </mxCell>
         <mxCell id="sQlxrv8fsCGKDVmOHkrW-3" value="Https&lt;br&gt;(TCP443)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="356.5" y="352" width="57" height="20" as="geometry"/>
         </mxCell>
         <mxCell id="sQlxrv8fsCGKDVmOHkrW-5" value="Https (TCP443)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="170" y="353.5" width="100" height="20" as="geometry"/>
         </mxCell>
-        <mxCell id="eJltJ8TtRrZa0kh_zkO3-1" value="SQL Conn&lt;br&gt;(1433 TCP)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="eJltJ8TtRrZa0kh_zkO3-1" value="SQL Conn&lt;br&gt;(1113 TCP)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="650" y="463.5" width="70" height="33" as="geometry"/>
         </mxCell>
         <mxCell id="eJltJ8TtRrZa0kh_zkO3-4" value="Https &lt;br&gt;(TCP443)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
@@ -155,8 +152,8 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="eJltJ8TtRrZa0kh_zkO3-7" value="SQL Conn&lt;br&gt;(1433 TCP)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="800" y="472" width="70" height="33" as="geometry"/>
+        <mxCell id="eJltJ8TtRrZa0kh_zkO3-7" value="SQL Conn&lt;br&gt;(1113 TCP)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="797" y="463.5" width="70" height="33" as="geometry"/>
         </mxCell>
         <mxCell id="eJltJ8TtRrZa0kh_zkO3-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;startFill=0;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
@@ -283,7 +280,7 @@
         <mxCell id="sT4rDz-uUaXsuRV0ZIDF-0" value="SQL Conn&lt;br&gt;(1433 TCP)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="3gNSYFEJWq0Y2mECjLJj-1" vertex="1">
           <mxGeometry x="660" y="280" width="70" height="20" as="geometry"/>
         </mxCell>
-        <mxCell id="G0QdnjQPvsq3ugTHv_Vn-1" value="SQL Conn&lt;br&gt;(1433 TCP)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="3gNSYFEJWq0Y2mECjLJj-1" vertex="1">
+        <mxCell id="G0QdnjQPvsq3ugTHv_Vn-1" value="SQL Conn&lt;br&gt;(1113 TCP)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="3gNSYFEJWq0Y2mECjLJj-1" vertex="1">
           <mxGeometry x="543" y="447" width="70" height="20" as="geometry"/>
         </mxCell>
         <mxCell id="mEtc8UFiLN3M5qSHiksb-0" value="Https&lt;br&gt;(443 TCP)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="3gNSYFEJWq0Y2mECjLJj-1">

@@ -1,4 +1,4 @@
-<mxfile modified="2020-04-15T06:16:42.203Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.163 Safari/537.36" etag="A98BaS56VgNHpPumjfHs" version="12.9.12" type="github" pages="4">
+<mxfile modified="2020-04-15T06:17:51.722Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.163 Safari/537.36" etag="TXAkkY-Iru3TAiq74IM-" version="12.9.12" type="github" pages="4">
   <diagram id="WI9T0HZ2pTsCkuznbFz-" name="ApplyAnywhere PaaS architecture">
     <mxGraphModel dx="1090" dy="608" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -207,7 +207,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="smwpBIK393G-4AdiDOek-11" value="K2 Blackpearl&lt;br&gt;Workspace&lt;br&gt;Web Server" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/VirtualMachineWindows.svg;labelBackgroundColor=#ffffff;" parent="3gNSYFEJWq0Y2mECjLJj-1" vertex="1">
+        <mxCell id="smwpBIK393G-4AdiDOek-11" value="Web Server" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/VirtualMachineWindows.svg;labelBackgroundColor=#ffffff;" parent="3gNSYFEJWq0Y2mECjLJj-1" vertex="1">
           <mxGeometry x="510" y="342" width="50" height="46" as="geometry" />
         </mxCell>
         <mxCell id="smwpBIK393G-4AdiDOek-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;startFill=0;" parent="3gNSYFEJWq0Y2mECjLJj-1" edge="1">
@@ -268,7 +268,7 @@
         <mxCell id="smwpBIK393G-4AdiDOek-33" value="&lt;span style=&quot;white-space: nowrap ; background-color: rgb(255 , 255 , 255)&quot;&gt;ApplyAnywhere&lt;/span&gt;&lt;br style=&quot;white-space: nowrap&quot;&gt;&lt;span style=&quot;white-space: nowrap ; background-color: rgb(255 , 255 , 255)&quot;&gt;Front End&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;labelBackgroundColor=none;" parent="3gNSYFEJWq0Y2mECjLJj-1" vertex="1">
           <mxGeometry x="573" y="368" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="smwpBIK393G-4AdiDOek-34" value="&lt;span style=&quot;background-color: rgb(248 , 249 , 250)&quot;&gt;K2 Blackpear&lt;/span&gt;&lt;span style=&quot;background-color: rgb(248 , 249 , 250)&quot;&gt;, &lt;br&gt;KpmgWorkFlow&lt;/span&gt;&lt;span style=&quot;background-color: rgb(248 , 249 , 250)&quot;&gt;&lt;br&gt;SQL Database Server&lt;br&gt;&lt;/span&gt;" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/VirtualMachineWindows.svg;labelBackgroundColor=#ffffff;" parent="3gNSYFEJWq0Y2mECjLJj-1" vertex="1">
+        <mxCell id="smwpBIK393G-4AdiDOek-34" value="&lt;span style=&quot;background-color: rgb(248 , 249 , 250)&quot;&gt;SQL Database Server&lt;br&gt;&lt;/span&gt;" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/VirtualMachineWindows.svg;labelBackgroundColor=#ffffff;" parent="3gNSYFEJWq0Y2mECjLJj-1" vertex="1">
           <mxGeometry x="510" y="481" width="50" height="46" as="geometry" />
         </mxCell>
         <mxCell id="iuaWqtNruoDIMOuyL9Ep-0" value="&lt;span style=&quot;white-space: nowrap ; background-color: rgb(255 , 255 , 255)&quot;&gt;KpmgWorkFlow&lt;/span&gt;&lt;br style=&quot;white-space: nowrap&quot;&gt;&lt;span style=&quot;white-space: nowrap ; background-color: rgb(255 , 255 , 255)&quot;&gt;Web Api&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;labelBackgroundColor=none;" parent="3gNSYFEJWq0Y2mECjLJj-1" vertex="1">
@@ -296,199 +296,102 @@
     </mxGraphModel>
   </diagram>
   <diagram id="HytrqFQPtinqaR7rAQq8" name="tax.com.tw PaaS architecture">
-    
-    <mxGraphModel dx="1408" dy="748" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
-      
+    <mxGraphModel dx="1090" dy="608" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
-        
         <mxCell id="L5A2PCmOKvRyw3RFonAS-0" />
-        
         <mxCell id="L5A2PCmOKvRyw3RFonAS-1" parent="L5A2PCmOKvRyw3RFonAS-0" />
-        
         <mxCell id="xvHnMex4xPKi_8IZawSf-0" value="" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=#ffffff;fillColor=none;dashed=1;" parent="L5A2PCmOKvRyw3RFonAS-1" vertex="1">
-          
           <mxGeometry x="310" y="280" width="270" height="430" as="geometry" />
-          
         </mxCell>
-        
         <mxCell id="xvHnMex4xPKi_8IZawSf-1" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=none;fontColor=#333333;verticalAlign=top;direction=south;" parent="L5A2PCmOKvRyw3RFonAS-1" vertex="1">
-          
           <mxGeometry x="420" y="302" width="150" height="399" as="geometry" />
-          
         </mxCell>
-        
         <mxCell id="xvHnMex4xPKi_8IZawSf-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;startFill=0;" parent="L5A2PCmOKvRyw3RFonAS-1" edge="1">
-          
           <mxGeometry relative="1" as="geometry">
-            
             <mxPoint x="490" y="581" as="targetPoint" />
-            
             <mxPoint x="490" y="551" as="sourcePoint" />
-            
           </mxGeometry>
-          
         </mxCell>
-        
         <mxCell id="xvHnMex4xPKi_8IZawSf-6" value="Blob Storage&lt;br&gt;Images" style="aspect=fixed;html=1;perimeter=none;align=center;shadow=0;dashed=0;image;fontSize=12;image=img/lib/mscae/BlobBlock.svg;labelBackgroundColor=none;direction=east;" parent="L5A2PCmOKvRyw3RFonAS-1" vertex="1">
-          
           <mxGeometry x="459.5" y="588" width="62" height="53" as="geometry" />
-          
         </mxCell>
-        
         <mxCell id="xvHnMex4xPKi_8IZawSf-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="L5A2PCmOKvRyw3RFonAS-1" source="xvHnMex4xPKi_8IZawSf-11" target="xvHnMex4xPKi_8IZawSf-31" edge="1">
-          
           <mxGeometry relative="1" as="geometry" />
-          
         </mxCell>
-        
         <mxCell id="xvHnMex4xPKi_8IZawSf-11" value="Browser" style="aspect=fixed;html=1;perimeter=none;align=center;shadow=0;dashed=0;image;fontSize=12;image=img/lib/mscae/Browser.svg;spacingTop=5;" parent="L5A2PCmOKvRyw3RFonAS-1" vertex="1">
-          
           <mxGeometry x="150.24999999999966" y="459" width="50" height="42.5" as="geometry" />
-          
         </mxCell>
-        
         <mxCell id="xvHnMex4xPKi_8IZawSf-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="L5A2PCmOKvRyw3RFonAS-1" source="xvHnMex4xPKi_8IZawSf-26" edge="1">
-          
           <mxGeometry relative="1" as="geometry">
-            
             <mxPoint x="140" y="480" as="targetPoint" />
-            
           </mxGeometry>
-          
         </mxCell>
-        
         <mxCell id="xvHnMex4xPKi_8IZawSf-26" value="KPMG TW Customer" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/Person.svg;labelBackgroundColor=none;" parent="L5A2PCmOKvRyw3RFonAS-1" vertex="1">
-          
           <mxGeometry x="40" y="455" width="37" height="50" as="geometry" />
-          
         </mxCell>
-        
         <mxCell id="xvHnMex4xPKi_8IZawSf-27" value="tax.com.tw&lt;br&gt;Service Environment" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/App_Service.svg;labelBackgroundColor=none;" parent="L5A2PCmOKvRyw3RFonAS-1" vertex="1">
-          
           <mxGeometry x="495" y="311" width="37" height="37" as="geometry" />
-          
         </mxCell>
-        
         <mxCell id="xvHnMex4xPKi_8IZawSf-28" value="KPMG TW On Premise" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=none;fontColor=#333333;verticalAlign=top;direction=south;" parent="L5A2PCmOKvRyw3RFonAS-1" vertex="1">
-          
           <mxGeometry x="644" y="380" width="246" height="201" as="geometry" />
-          
         </mxCell>
-        
         <mxCell id="xvHnMex4xPKi_8IZawSf-31" value="App Gateway" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/Local_Network_Gateways.svg;dashed=1;labelBackgroundColor=#ffffff;fillColor=none;" parent="L5A2PCmOKvRyw3RFonAS-1" vertex="1">
-          
           <mxGeometry x="285" y="455" width="50" height="50" as="geometry" />
-          
         </mxCell>
-        
         <mxCell id="xvHnMex4xPKi_8IZawSf-32" value="Virtual Network" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;labelBackgroundColor=#ffffff;" parent="L5A2PCmOKvRyw3RFonAS-1" vertex="1">
-          
           <mxGeometry x="340" y="270" width="93" height="20" as="geometry" />
-          
         </mxCell>
-        
         <mxCell id="xvHnMex4xPKi_8IZawSf-34" value="" style="endArrow=classic;html=1;startArrow=none;startFill=0;exitX=0.508;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;" parent="L5A2PCmOKvRyw3RFonAS-1" edge="1">
-          
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            
             <mxPoint x="489.01199999999994" y="448" as="sourcePoint" />
-            
             <mxPoint x="719" y="458" as="targetPoint" />
-            
             <Array as="points">
-              
               <mxPoint x="489" y="418" />
-              
               <mxPoint x="719" y="418" />
-              
             </Array>
-            
           </mxGeometry>
-          
         </mxCell>
-        
         <mxCell id="xvHnMex4xPKi_8IZawSf-5" value="&lt;a href=&quot;http://tax.com.tw/&quot;&gt;tax.com.tw&lt;/a&gt;&lt;br&gt;App Service" style="aspect=fixed;html=1;perimeter=none;align=center;shadow=0;dashed=0;image;fontSize=12;image=img/lib/mscae/WebApp_WebJobs.svg;labelBackgroundColor=#ffffff;" parent="L5A2PCmOKvRyw3RFonAS-1" vertex="1">
-          
           <mxGeometry x="457.5" y="451" width="64" height="64" as="geometry" />
-          
         </mxCell>
-        
         <mxCell id="IJudURbBC9qB1mBKnEuI-0" value="Application Insights" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/Application_Insights.svg;dashed=1;labelBackgroundColor=#ffffff;fillColor=none;" parent="L5A2PCmOKvRyw3RFonAS-1" vertex="1">
-          
           <mxGeometry x="710" y="614.5" width="32" height="50" as="geometry" />
-          
         </mxCell>
-        
         <mxCell id="xm4GxfO8vK_kHDdCy2FF-0" value="tax.com.tw&lt;br&gt;Database" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/SQL_Database_generic.svg;dashed=1;labelBackgroundColor=#ffffff;fillColor=none;" parent="L5A2PCmOKvRyw3RFonAS-1" vertex="1">
-          
           <mxGeometry x="818" y="469.5" width="38" height="50" as="geometry" />
-          
         </mxCell>
-        
         <mxCell id="xm4GxfO8vK_kHDdCy2FF-1" value="tax.com.tw&lt;br&gt;WebApi" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/VirtualMachineWindows.svg;" parent="L5A2PCmOKvRyw3RFonAS-1" vertex="1">
-          
           <mxGeometry x="690" y="469.5" width="50" height="46" as="geometry" />
-          
         </mxCell>
-        
         <mxCell id="xm4GxfO8vK_kHDdCy2FF-2" value="SQL Conn&lt;br&gt;(1433 TCP)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="L5A2PCmOKvRyw3RFonAS-1" vertex="1">
-          
           <mxGeometry x="744" y="461.5" width="70" height="20" as="geometry" />
-          
         </mxCell>
-        
         <mxCell id="xm4GxfO8vK_kHDdCy2FF-3" value="" style="endArrow=classic;html=1;" parent="L5A2PCmOKvRyw3RFonAS-1" edge="1">
-          
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            
             <mxPoint x="748" y="494.5" as="sourcePoint" />
-            
             <mxPoint x="803" y="494.5" as="targetPoint" />
-            
           </mxGeometry>
-          
         </mxCell>
-        
         <mxCell id="99beIvgpStfriN9zHK8h-0" value="Https (443 TCP)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="L5A2PCmOKvRyw3RFonAS-1" vertex="1">
-          
           <mxGeometry x="580" y="401" width="90" height="20" as="geometry" />
-          
         </mxCell>
-        
         <mxCell id="99beIvgpStfriN9zHK8h-1" value="Https (443 TCP)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="L5A2PCmOKvRyw3RFonAS-1" vertex="1">
-          
           <mxGeometry x="495" y="551" width="90" height="20" as="geometry" />
-          
         </mxCell>
-        
         <mxCell id="99beIvgpStfriN9zHK8h-2" value="Https (443 TCP)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="L5A2PCmOKvRyw3RFonAS-1" vertex="1">
-          
           <mxGeometry x="350" y="455" width="90" height="20" as="geometry" />
-          
         </mxCell>
-        
         <mxCell id="tBRmtxT6P3hNh8e7EI2A-0" value="Https (443 TCP)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="L5A2PCmOKvRyw3RFonAS-1" vertex="1">
-          
           <mxGeometry x="200" y="455" width="90" height="20" as="geometry" />
-          
         </mxCell>
-        
         <mxCell id="c99vIcx-jZys81GccVcW-0" value="" style="endArrow=classic;html=1;fontSize=10;" parent="L5A2PCmOKvRyw3RFonAS-1" edge="1">
-          
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            
             <mxPoint x="345" y="480" as="sourcePoint" />
-            
             <mxPoint x="455" y="480" as="targetPoint" />
-            
           </mxGeometry>
-          
         </mxCell>
-        
       </root>
-      
     </mxGraphModel>
-    
   </diagram>
   <diagram id="0-SjpaF1tThljY5-xZCx" name="tax.com.tw IaaS architecture">
     
